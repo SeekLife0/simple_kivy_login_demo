@@ -1,0 +1,2 @@
+# simple_kivy_login_demo
+一个使用python的kviy模块制作的android登入界面
